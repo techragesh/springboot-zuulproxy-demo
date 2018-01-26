@@ -4,7 +4,7 @@ By using Zuul, we have created the proxy url for the two microservices.
 
 # Diagram #
 
-![springcloudzuul.png](springcloudzuul)
+![springcloudzuul](springcloudzuul.png)
 
 # DbService #
 
